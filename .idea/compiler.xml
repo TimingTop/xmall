@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xmall-admin" />
+        <module name="storage-web" />
+        <module name="xnetty" />
+        <module name="api" />
+        <module name="order-web" />
+        <module name="xmall-user-web" />
+        <module name="dubbo-admin-distribution" />
+        <module name="dubbo-admin-server" />
+        <module name="acount-web" />
+        <module name="dubbo-admin-ui" />
+        <module name="business-web" />
+        <module name="xorder" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

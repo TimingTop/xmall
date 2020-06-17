@@ -1,0 +1,8 @@
+com\timing\xmall\xorder\entity\EsEntity.class
+com\timing\xmall\xorder\config\ElasticsearchConfig.class
+com\timing\xmall\xorder\controller\OrderController.class
+com\timing\xmall\xorder\entity\Order.class
+com\timing\xmall\xorder\service\OrderService.class
+com\timing\xmall\xorder\util\JsonUtil.class
+com\timing\xmall\xorder\Application.class
+com\timing\xmall\xorder\util\EsUtil.class
